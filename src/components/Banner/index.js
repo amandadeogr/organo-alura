@@ -1,5 +1,6 @@
-import './Banner.css'
-function Banner () {
+import './Banner.css';
+
+const Banner = () => {
    return (
       // JSX
       <header className='banner'>
