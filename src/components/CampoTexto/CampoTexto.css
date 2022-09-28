@@ -14,6 +14,6 @@
    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
    box-sizing: border-box; /* Que o input tenha o tam de 100% levando tudo em consideração, neste caso, o padding... */
    font-size: 24px;
-   padding: 24px;
+   padding: 15px;
    width: 100%;
 }
