@@ -1,0 +1,21 @@
+.rodape {
+   background-color: #6278F7;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding: 40px;
+   color: white;
+}
+
+.rodape ul {
+   list-style: none;
+   display: flex;
+}
+
+.rodape ul li {
+   margin: 0 .5rem;
+}
+
+.rodape ul li img, .logo img {
+   width: 60%;
+}
